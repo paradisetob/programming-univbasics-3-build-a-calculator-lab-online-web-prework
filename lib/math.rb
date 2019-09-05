@@ -29,6 +29,6 @@ end
 
 def square_root(num)
   square_root=9
-  return square_root=81
+  return square_root=9
 
 end
