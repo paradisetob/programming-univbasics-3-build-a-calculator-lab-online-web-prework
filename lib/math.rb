@@ -1,8 +1,10 @@
 def addition(num1, num2)
-
+  sum=num1+num2
+  return
 end
 
-def subtraction(num1, num2)
+def subtraction(20,10)
+
 
 end
 
